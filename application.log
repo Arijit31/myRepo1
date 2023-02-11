@@ -1,0 +1,118 @@
+2022-11-12 00:23:43,766 INFO  AbstractEntityManagerFactoryBean:651 -Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-12 00:23:43,773 INFO  HikariDataSource:350 -HikariPool-1 - Shutdown initiated...
+2022-11-12 00:23:43,786 INFO  HikariDataSource:352 -HikariPool-1 - Shutdown completed.
+2022-11-12 18:02:51,433 INFO  StartupInfoLogger:55 -Starting CourseListApplication using Java 1.8.0_333 on KOL-RL-ArijitP with PID 17804 (D:\springrestsaikat\CourseList\target\classes started by arijit.pandit in D:\springrestsaikat)
+2022-11-12 18:02:51,440 INFO  SpringApplication:634 -No active profile set, falling back to 1 default profile: "default"
+2022-11-12 18:02:53,877 INFO  RepositoryConfigurationDelegate:132 -Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-12 18:02:54,018 INFO  RepositoryConfigurationDelegate:201 -Finished Spring Data repository scanning in 118 ms. Found 1 JPA repository interfaces.
+2022-11-12 18:02:57,173 INFO  TomcatWebServer:108 -Tomcat initialized with port(s): 8085 (http)
+2022-11-12 18:02:57,213 INFO  DirectJDKLog:173 -Starting service [Tomcat]
+2022-11-12 18:02:57,214 INFO  DirectJDKLog:173 -Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-12 18:02:57,791 INFO  DirectJDKLog:173 -Initializing Spring embedded WebApplicationContext
+2022-11-12 18:02:57,792 INFO  ServletWebServerApplicationContext:292 -Root WebApplicationContext: initialization completed in 6164 ms
+2022-11-12 18:02:59,256 INFO  HikariDataSource:110 -HikariPool-1 - Starting...
+2022-11-12 18:03:02,112 INFO  HikariDataSource:123 -HikariPool-1 - Start completed.
+2022-11-12 18:03:04,855 INFO  JavaLogger:30 -Successfully acquired change log lock
+2022-11-12 18:03:06,366 INFO  JavaLogger:30 -Reading from liquibasedb.DATABASECHANGELOG
+2022-11-12 18:03:06,841 INFO  JavaLogger:30 -Successfully released change log lock
+2022-11-12 18:03:07,529 INFO  LogHelper:31 -HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-12 18:03:07,759 INFO  Version:44 -HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-11-12 18:03:08,964 INFO  JavaReflectionManager:56 -HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-12 18:03:09,523 INFO  Dialect:175 -HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-11-12 18:03:11,643 INFO  JtaPlatformInitiator:52 -HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-12 18:03:11,665 INFO  AbstractEntityManagerFactoryBean:437 -Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-12 18:03:12,708 WARN  JpaBaseConfiguration$JpaWebConfiguration:219 -spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-11-12 18:03:13,680 INFO  TomcatWebServer:220 -Tomcat started on port(s): 8085 (http) with context path ''
+2022-11-12 18:03:13,706 INFO  StartupInfoLogger:61 -Started CourseListApplication in 24.666 seconds (JVM running for 26.45)
+2022-11-12 18:03:30,398 INFO  StartupInfoLogger:55 -Starting CourseListApplication using Java 1.8.0_333 on KOL-RL-ArijitP with PID 17240 (D:\springrestsaikat\CourseList\target\classes started by arijit.pandit in D:\springrestsaikat)
+2022-11-12 18:03:30,410 INFO  SpringApplication:634 -No active profile set, falling back to 1 default profile: "default"
+2022-11-12 18:03:32,625 INFO  RepositoryConfigurationDelegate:132 -Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-12 18:03:32,769 INFO  RepositoryConfigurationDelegate:201 -Finished Spring Data repository scanning in 119 ms. Found 1 JPA repository interfaces.
+2022-11-12 18:03:36,971 INFO  TomcatWebServer:108 -Tomcat initialized with port(s): 8085 (http)
+2022-11-12 18:03:37,003 INFO  DirectJDKLog:173 -Starting service [Tomcat]
+2022-11-12 18:03:37,006 INFO  DirectJDKLog:173 -Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-12 18:03:37,925 INFO  DirectJDKLog:173 -Initializing Spring embedded WebApplicationContext
+2022-11-12 18:03:37,926 INFO  ServletWebServerApplicationContext:292 -Root WebApplicationContext: initialization completed in 7339 ms
+2022-11-12 18:03:39,136 INFO  HikariDataSource:110 -HikariPool-1 - Starting...
+2022-11-12 18:03:41,662 INFO  HikariDataSource:123 -HikariPool-1 - Start completed.
+2022-11-12 18:03:43,054 INFO  JavaLogger:30 -Successfully acquired change log lock
+2022-11-12 18:03:43,885 INFO  JavaLogger:30 -Reading from liquibasedb.DATABASECHANGELOG
+2022-11-12 18:03:44,124 INFO  JavaLogger:30 -Successfully released change log lock
+2022-11-12 18:03:44,596 INFO  LogHelper:31 -HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-12 18:03:44,822 INFO  Version:44 -HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-11-12 18:03:45,612 INFO  JavaReflectionManager:56 -HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-12 18:03:46,159 INFO  Dialect:175 -HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-11-12 18:03:48,459 INFO  JtaPlatformInitiator:52 -HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-12 18:03:48,480 INFO  AbstractEntityManagerFactoryBean:437 -Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-12 18:03:49,364 WARN  JpaBaseConfiguration$JpaWebConfiguration:219 -spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-11-12 18:03:50,159 WARN  AbstractApplicationContext:591 -Exception encountered during context initialization - cancelling refresh attempt: org.springframework.context.ApplicationContextException: Failed to start bean 'webServerStartStop'; nested exception is org.springframework.boot.web.server.PortInUseException: Port 8085 is already in use
+2022-11-12 18:03:50,164 INFO  AbstractEntityManagerFactoryBean:651 -Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-12 18:03:50,169 INFO  HikariDataSource:350 -HikariPool-1 - Shutdown initiated...
+2022-11-12 18:03:50,200 INFO  HikariDataSource:352 -HikariPool-1 - Shutdown completed.
+2022-11-12 18:03:50,204 INFO  DirectJDKLog:173 -Stopping service [Tomcat]
+2022-11-12 18:03:50,231 INFO  ConditionEvaluationReportLoggingListener:136 -
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2022-11-12 18:03:50,303 ERROR LoggingFailureAnalysisReporter:40 -
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8085 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8085 or configure this application to listen on another port.
+
+2022-11-12 18:43:34,279 INFO  DirectJDKLog:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-11-12 18:43:34,281 INFO  FrameworkServlet:525 -Initializing Servlet 'dispatcherServlet'
+2022-11-12 18:43:34,313 INFO  FrameworkServlet:547 -Completed initialization in 31 ms
+2022-11-12 18:43:34,440 INFO  Course_Controller:35 -Controller Called getCourse()
+2022-11-12 18:43:35,205 INFO  CourseServicesImpl:33 -ServiceImpl Called getCourse
+2022-11-12 18:44:17,722 WARN  AbstractHandlerExceptionResolver:208 -Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'DELETE' not supported]
+2022-11-12 18:47:23,582 INFO  CourseServicesImpl:76 -ServiceImpl Called deleteCourse with 102
+2022-11-12 18:47:23,730 INFO  Course_Controller:99 -Controller deleteOne Called with 102
+2022-11-12 19:01:18,557 INFO  Course_Controller:77 -Controller singleCourse Called with 102
+2022-11-12 19:01:18,558 INFO  CourseServicesImpl:63 -ServiceImpl Called singleCourse with 102
+2022-11-12 19:01:28,977 INFO  Course_Controller:77 -Controller singleCourse Called with 31
+2022-11-12 19:01:28,978 INFO  CourseServicesImpl:63 -ServiceImpl Called singleCourse with 31
+2022-11-12 19:01:32,253 INFO  Course_Controller:77 -Controller singleCourse Called with 32
+2022-11-12 19:01:32,254 INFO  CourseServicesImpl:63 -ServiceImpl Called singleCourse with 32
+2022-11-12 19:02:38,266 INFO  Course_Controller:57 -Control Called addCourse with id-5 name-xyz intro-5hr
+2022-11-12 19:02:38,267 INFO  CourseServicesImpl:49 -ServiceImpl Called addCourse with id-5 name-xyz intro-5hr
+2022-11-12 19:03:04,195 INFO  Course_Controller:35 -Controller Called getCourse()
+2022-11-12 19:03:04,210 INFO  CourseServicesImpl:33 -ServiceImpl Called getCourse
+2022-11-12 19:07:35,935 INFO  Course_Controller:57 -Control Called addCourse with id-5 name-xyz intro-5hr
+2022-11-12 19:07:35,936 INFO  CourseServicesImpl:49 -ServiceImpl Called addCourse with id-5 name-xyz intro-5hr
+2022-11-12 19:11:21,119 INFO  AbstractEntityManagerFactoryBean:651 -Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-12 19:11:21,123 INFO  HikariDataSource:350 -HikariPool-1 - Shutdown initiated...
+2022-11-12 19:11:21,127 INFO  HikariDataSource:352 -HikariPool-1 - Shutdown completed.
+2022-11-12 19:11:25,432 INFO  StartupInfoLogger:55 -Starting CourseListApplication using Java 1.8.0_333 on KOL-RL-ArijitP with PID 14496 (D:\springrestsaikat\CourseList\target\classes started by arijit.pandit in D:\springrestsaikat)
+2022-11-12 19:11:25,435 INFO  SpringApplication:634 -No active profile set, falling back to 1 default profile: "default"
+2022-11-12 19:11:26,155 INFO  RepositoryConfigurationDelegate:132 -Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2022-11-12 19:11:26,230 INFO  RepositoryConfigurationDelegate:201 -Finished Spring Data repository scanning in 63 ms. Found 1 JPA repository interfaces.
+2022-11-12 19:11:27,360 INFO  TomcatWebServer:108 -Tomcat initialized with port(s): 8085 (http)
+2022-11-12 19:11:27,371 INFO  DirectJDKLog:173 -Starting service [Tomcat]
+2022-11-12 19:11:27,372 INFO  DirectJDKLog:173 -Starting Servlet engine: [Apache Tomcat/9.0.68]
+2022-11-12 19:11:27,556 INFO  DirectJDKLog:173 -Initializing Spring embedded WebApplicationContext
+2022-11-12 19:11:27,556 INFO  ServletWebServerApplicationContext:292 -Root WebApplicationContext: initialization completed in 2078 ms
+2022-11-12 19:11:27,959 INFO  HikariDataSource:110 -HikariPool-1 - Starting...
+2022-11-12 19:11:28,796 INFO  HikariDataSource:123 -HikariPool-1 - Start completed.
+2022-11-12 19:11:29,117 INFO  JavaLogger:30 -Successfully acquired change log lock
+2022-11-12 19:11:29,428 INFO  JavaLogger:30 -Reading from liquibasedb.DATABASECHANGELOG
+2022-11-12 19:11:29,536 INFO  JavaLogger:30 -Successfully released change log lock
+2022-11-12 19:11:29,694 INFO  LogHelper:31 -HHH000204: Processing PersistenceUnitInfo [name: default]
+2022-11-12 19:11:29,769 INFO  Version:44 -HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-11-12 19:11:30,017 INFO  JavaReflectionManager:56 -HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-11-12 19:11:30,188 INFO  Dialect:175 -HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2022-11-12 19:11:31,354 INFO  JtaPlatformInitiator:52 -HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-11-12 19:11:31,364 INFO  AbstractEntityManagerFactoryBean:437 -Initialized JPA EntityManagerFactory for persistence unit 'default'
+2022-11-12 19:11:31,865 WARN  JpaBaseConfiguration$JpaWebConfiguration:219 -spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-11-12 19:11:32,420 INFO  TomcatWebServer:220 -Tomcat started on port(s): 8085 (http) with context path ''
+2022-11-12 19:11:32,432 INFO  StartupInfoLogger:61 -Started CourseListApplication in 8.681 seconds (JVM running for 9.286)
+2022-11-12 19:16:58,285 INFO  AbstractEntityManagerFactoryBean:651 -Closing JPA EntityManagerFactory for persistence unit 'default'
+2022-11-12 19:16:58,287 INFO  HikariDataSource:350 -HikariPool-1 - Shutdown initiated...
+2022-11-12 19:16:58,300 INFO  HikariDataSource:352 -HikariPool-1 - Shutdown completed.

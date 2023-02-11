@@ -1,0 +1,12 @@
+
+t
+java:S1192$"^Define a constant instead of duplicating this literal "ServiceImpl Called {} with {}" 4 times.(•®æ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ò‘Ùç
+R
+java:S3655M"7Call "Optional#isPresent()" before accessing the value.(ÓŠùúÿÿÿÿ
+M
+java:S3655A"7Call "Optional#isPresent()" before accessing the value.(ŠÛ²
+n
+java:S2139#"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾
+n
+java:S2139O"XEither log this exception and handle it, or rethrow it with some contextual information.(”ı¾

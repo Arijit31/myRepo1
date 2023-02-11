@@ -1,0 +1,13 @@
+
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(þËè‘ûÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‹à®æ
+A
+java:S1452 "&Remove usage of generic wildcard type.(ÆÈñœøÿÿÿÿ
+V
+java:S46845"@Replace this persistent entity with a simple POJO or DTO object.(¯ÖÆÊ
+<
+java:S14525"&Remove usage of generic wildcard type.(¯ÖÆÊ
+A
+java:S1452J"&Remove usage of generic wildcard type.(Ê·Þ›úÿÿÿÿ
+<
+java:S1452^"&Remove usage of generic wildcard type.(‰®æ
